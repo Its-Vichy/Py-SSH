@@ -7,7 +7,7 @@
   <img src="https://miro.medium.com/max/600/1*9324hTvG7je7bT7YZHWNbg.gif">
 </p>
   
-## 🍇 ~ Control your raspberry on discord trought SSH session.
+## 🍇 ~ Control your raspberry / vps on discord trought SSH session.
 
 > * ***Requirements:***
 ```
